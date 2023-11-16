@@ -1,4 +1,6 @@
 # ChatApp_Llama-2-7B-Chat-GGUF
+![image](https://github.com/shivamkapoor172002/ChatApp_Llama-2-7B-Chat-GGUF/assets/92868323/80a9420f-d811-40e5-8333-6f6551ccdf9b)
+
 # Chatbot Deployment with Streamlit
 
 This repository contains the code for deploying a chatbot using Streamlit. The chatbot is powered by the Llama-2-7B language model.
